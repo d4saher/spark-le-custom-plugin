@@ -1,3 +1,18 @@
+# Archivos de compilación
+Builds/
+JuceLibraryCode/
+build/
+
+# Archivos generados por el sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de configuración de editores
+.vscode/
+.idea/
+*.user
+*.suo
+
 # Prerequisites
 *.d
 
